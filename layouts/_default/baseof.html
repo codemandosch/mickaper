@@ -11,7 +11,7 @@
     <header>
       <nav class="navbar">
         <div class="nav-container">
-          <a href="/" class="nav-item">Home</a>
+          <a href="{{ .Site.BaseURL }}" class="nav-item">Home</a>
           {{ range .Site.Menus.main }}
           <a href="{{ .URL }}" class="nav-item">{{ .Name }}</a>
           {{ end }}

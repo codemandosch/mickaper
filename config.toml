@@ -5,7 +5,7 @@ title = "[Names] Wedding"
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/mickaper/"
     weight = 1
   [[menu.main]]
     name = "Details"
