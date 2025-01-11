@@ -1,11 +1,11 @@
-baseURL = "/mickaper/"
+baseURL = "/"
 languageCode = "en-us"
 title = "[Names] Wedding"
 
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/mickaper/"
+    url = "/"
     weight = 1
   [[menu.main]]
     name = "Details"
