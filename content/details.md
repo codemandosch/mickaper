@@ -16,9 +16,6 @@ menu: main
 </div>
 {{< /rawhtml >}}
 
-The Royal Horseguards Hotel and One Whitehall Place
-2 Whitehall Ct, London SW1A 2EJ
-
 ## When
 
 [Date and Time]
