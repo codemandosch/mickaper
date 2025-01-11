@@ -1,0 +1,6 @@
+[submodule "hugo-starter-theme"]
+	path = hugo-starter-theme
+	url = https://github.com/ericmurphyxyz/hugo-starter-theme
+[submodule "themes/hugo-starter-theme"]
+	path = themes/hugo-starter-theme
+	url = https://github.com/ericmurphyxyz/hugo-starter-theme
